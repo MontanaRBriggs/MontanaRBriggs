@@ -1,6 +1,6 @@
 # Montana R. Briggs
 
-Hello there! I am a 20-year-old student studying Computer Science at [Virginia Polytechnic and State University](https://www.vt.edu/academics/majors/computer-science.html) (Virginia Tech)!
+Hello there! I am a 20-year-old student studying Computer Science at [Virginia Polytechnic Institute and State University](https://www.vt.edu/academics/majors/computer-science.html) (Virginia Tech)!
 
 ## What do I do?
 
